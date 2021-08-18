@@ -52,7 +52,7 @@ After you've entered the command `node app.js` in your command prompt it's time 
 
 Congrats! You should now be able to see the website up and running!
 
-### What Now?
+## What Now?
 As you can see the home page is fully blank. You can navigate to the *About Us* and the *Contact* page. But that that's not all! This is a blog application after all right? This is what you can do:
 
 - If you type in the URL `localhost:3000/compose` you can actually create your own blog post!
