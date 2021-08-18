@@ -4,7 +4,7 @@ Hi there everyone and future me! This is my very first backend project on my Git
 ## Preview:
 [![](https://i.ibb.co/Q60Cx6w/preview.png)](#)
 
-In this web application you can compose blogposts that will eventually appear on the homepage! Furthermore you can also go to your full individual posts by clicking on the *Read More* link next to your post. There's also another way to do that and you can find out if you continue reading..
+In this web application you can compose blogposts that will eventually appear on the homepage! Furthermore you can also go to your full individual posts by clicking on the *Read More* link next to your posts. There's also another way to do that and you can find out if you continue reading...
 
 As a sidenote: this application will not save your blogposts so be careful not to close the webpage otherwise all your valuable stories will be gone! This is due to the fact that this application is not connected to a database.
 
