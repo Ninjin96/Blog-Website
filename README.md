@@ -38,6 +38,7 @@ After you've downloaded the *Blog-Website-main.zip* make sure to unzip it.
 
 ### Step #3: Start The Server!
 After you have unzipped the *Blog-Website-main.zip* to your preferred location go and open your command prompt again.
+
 [
 ![](https://i.ibb.co/QKjmK01/startserver.png)](#)
 Firstly, make sure you are inside the *\Blog-Website-main* directory like in the picture above.
