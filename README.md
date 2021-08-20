@@ -23,7 +23,7 @@ No idea yet how to use node.js? Fear not! These steps will help you to successfu
 
 First [download](http://github.com) node.js and choose the correct installer for your machine. This download process should be very self-explanatory.
 
-To test if you've installed Node.js correctly. Open up you *command prompt* and type in:
+To test if you've installed Node.js correctly. Open up your *command prompt* and type in:
 ~~~
 node --version
 ~~~
@@ -65,7 +65,7 @@ The server is now up and running on your machine and you should be prompted: *Se
 
 
 ### Step 4: Open The Application In Your Browser.
-After you've entered the command `node app.js` in your command prompt it's time to open your browser. Inside your browser, type in the URL: `localhost:3000` and hit enter.
+After you've entered the commands `npm install` and `node app.js` in your command prompt it's time to open your browser. Inside your browser, type in the URL: `localhost:3000` and hit enter.
 
 Congrats! You should now be able to see the website up and running!
 
